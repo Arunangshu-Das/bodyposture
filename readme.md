@@ -1,4 +1,4 @@
-# Real-Time Body Language Detection
+# Real-Time Face Language Detection
 
 This code demonstrates the real-time detection of body language using the Mediapipe library. It utilizes the `Holistic` solution from Mediapipe to detect and track various landmarks on the face, hands, and body.
 
